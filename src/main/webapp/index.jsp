@@ -3,7 +3,7 @@
 <title>devops learners!</title>
 </head>
 <body>
-	<h1>welcome all!</h1>
+	<h1>welcome all build script trail!</h1>
 	<p>
 		It is now
 		<%= new java.util.Date() %></p>
