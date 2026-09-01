@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>welcome all!</title>
+<title>welcome all to devops class!</title>
 </head>
 <body>
 	<h1>learning devops!</h1>
